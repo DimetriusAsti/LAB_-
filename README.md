@@ -1,2 +1,2 @@
-# LAB_-
+# LAB_6
 String
